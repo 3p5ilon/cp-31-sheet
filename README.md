@@ -1,0 +1,11 @@
+# CP-31 Sheet
+
+This repository contains my C++ solutions for the CP-31 sheet.
+
+My aim is to solve problems from this sheet every day, keep my Codeforces streak alive, take part in contests, and reach **Expert** within a year (by Sep 27). Hopefully I can do it!
+
+## Local Testing
+
+```bash
+g++ -std=c++17 -O2 -Wall -Wextra -o main 800/01-Halloumi-Boxes.cpp
+```
